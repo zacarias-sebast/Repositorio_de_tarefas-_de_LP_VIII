@@ -1,0 +1,6 @@
+c:\users\zacarias sebastião\documents\visual studio 2012\Projects\Tarefa1_LP_VIII\Tarefa1_LP_VIII\bin\Debug\Tarefa1_LP_VIII.exe.config
+c:\users\zacarias sebastião\documents\visual studio 2012\Projects\Tarefa1_LP_VIII\Tarefa1_LP_VIII\bin\Debug\Tarefa1_LP_VIII.exe
+c:\users\zacarias sebastião\documents\visual studio 2012\Projects\Tarefa1_LP_VIII\Tarefa1_LP_VIII\bin\Debug\Tarefa1_LP_VIII.pdb
+c:\users\zacarias sebastião\documents\visual studio 2012\Projects\Tarefa1_LP_VIII\Tarefa1_LP_VIII\obj\Debug\Tarefa1_LP_VIII.csprojResolveAssemblyReference.cache
+c:\users\zacarias sebastião\documents\visual studio 2012\Projects\Tarefa1_LP_VIII\Tarefa1_LP_VIII\obj\Debug\Tarefa1_LP_VIII.exe
+c:\users\zacarias sebastião\documents\visual studio 2012\Projects\Tarefa1_LP_VIII\Tarefa1_LP_VIII\obj\Debug\Tarefa1_LP_VIII.pdb
